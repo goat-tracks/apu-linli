@@ -8,13 +8,11 @@
       </LineString>
       <styleUrl>#lineStyle1</styleUrl>
     </Placemark>
-    <Style>
-      <Style id="lineStyle1">
-        <LineStyle>
-          <color>ff00ff00</color>
-          <width>14</width>
-        </LineStyle>
-      </Style>
+    <Style id="lineStyle1">
+      <LineStyle>
+        <color>aaff0000</color>
+        <width>2</width>
+      </LineStyle>
     </Style>
   </Document>
 </kml>
